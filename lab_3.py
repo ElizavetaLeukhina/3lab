@@ -14,3 +14,5 @@ for i in range(len(wordsnew)):
         maxw = len(wordsnew[i])
         maxword = wordsnew[i]
 print("Самое длинное слово из вашей строки:", maxword)
+a = 10000000
+print(a)
